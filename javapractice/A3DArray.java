@@ -12,7 +12,7 @@ class A3DArray{
 		for(i=0;i<4;i++){
 			for(j=0;j<3;j++){
 				for(k=0;k<5;k++)
-				System.out.print(my3DArray[i][j][k]);
+				System.out.print(my3DArray[i][j][k]+" ");
 			System.out.println();
 			}
 		System.out.println();
